@@ -39,3 +39,4 @@ The KYC Verification Smart Contract is designed to be extensible, with potential
 - **Compliance API**: Standardized interfaces for regulatory reporting and compliance monitoring
 
 This contract provides a minimal viable solution that can be expanded to incorporate these features as the ecosystem and requirements evolve.
+contract:-0x93D3FE1FCDDFF3909ebDb3C28fe8415821aE9F13
